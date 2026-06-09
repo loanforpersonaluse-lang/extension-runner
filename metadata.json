@@ -1,0 +1,6 @@
+{
+  "name": "Extension Runner",
+  "description": "Engage, test, and run your favorite Chrome extensions or custom Javascript scripts inside a fully interactive web browser with real-time logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
